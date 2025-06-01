@@ -1,2 +1,2 @@
 # crystalnetwork
-crystalnetwork özel  tabanlı minecraft s
+crystalnetwork özel  tabanlı minecraft sunucusu
