@@ -1,6 +1,8 @@
 # crystalnetwork
 crystalnetwork özel  tabanlı minecraft sunucusu
 
-sunucumuz yakında dvd ye geçilecektir 1.16.5 1.21.5 sürümleri ve arası sürümleri kabul eder
+sunucumuz yakında dvd ye geçilecektir 
+
+1.16.5 1.21.5 sürümleri ve arası sürümleri kabul eder
 
 sunucumuzun ip si:crystalnw.aternos.me:49210
